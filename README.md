@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 
 ### 📫 How to reach me ...
+| Contact    |                                            |
+| ---------- | ------------------------------------------ |
 | Email      | contact@robertwarneke.com                  |
 | LinkedIn   | https://www.linkedin.com/in/robert-warneke |
 | Portfolio  | https://www.robertwarneke.com              |
