@@ -2,9 +2,7 @@
 
 ### 📫 contact@robertwarneke.com
 ### 💻 [robertwarneke.com](https://www.robertwarneke.com "https://www.robertwarneke.com")
-|           Email           |                  LinkedIn                  |           Portfolio           |
-| ------------------------- | ------------------------------------------ | ----------------------------- |
-| contact@robertwarneke.com | https://www.linkedin.com/in/robert-warneke | https://www.robertwarneke.com |
+### 💻 [linkedin.com/in/robert-warneke](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
 
 ---
 ### 🪙 BTC Address 
