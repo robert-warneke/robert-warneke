@@ -1,6 +1,7 @@
 # 👋 Hi, my name is Robert Warneke.
 
-### 📫 How to reach me ...
+### 📫 contact@robertwarneke.com
+### 💻 robertwarneke.com
 |           Email           |                  LinkedIn                  |           Portfolio           |
 | ------------------------- | ------------------------------------------ | ----------------------------- |
 | contact@robertwarneke.com | https://www.linkedin.com/in/robert-warneke | https://www.robertwarneke.com |
