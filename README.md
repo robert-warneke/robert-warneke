@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 
 ### 📫 How to reach me ...
-- [Send me an Email](contact@robertwarneke.com "contact@robertwarneke.com")
-- View [my LinkedIn Profile](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
-- View [my Portfolio Website](https://www.robertwarneke.com "https://www.robertwarneke.com")
+#### [Send me an Email](contact@robertwarneke.com "contact@robertwarneke.com")
+#### View [my LinkedIn Profile](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
+#### View [my Portfolio Website](https://www.robertwarneke.com "https://www.robertwarneke.com")
 ---
 BTC Address: bc1qque004sfsrc8vce2tfzq98jaqgapeuxmtpsptl
 <!---
