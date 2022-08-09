@@ -5,6 +5,8 @@
 #### 💻 [robertwarneke.com](https://www.robertwarneke.com "https://www.robertwarneke.com")
 #### 💻 [linkedin.com/in/robert-warneke](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
 
+![GitHub Logo](/assets/svg/github-brands.svg)
+
 ---
 #### 🪙 BTC Address 
 > bc1qque004sfsrc8vce2tfzq98jaqgapeuxmtpsptl
