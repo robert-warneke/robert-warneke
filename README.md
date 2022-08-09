@@ -6,7 +6,7 @@
 | contact@robertwarneke.com | https://www.linkedin.com/in/robert-warneke | https://www.robertwarneke.com |
 
 ---
-### 🪙 ₿TC Address 
+### 🪙 BTC Address 
 > bc1qque004sfsrc8vce2tfzq98jaqgapeuxmtpsptl
 
 <!---
