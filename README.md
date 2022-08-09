@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 
-### 📫 How to reach me ... contact@robertwarneke.com
+### 📫 How to reach me ...
+- [Send Robert an Email](contact@robertwarneke.com)
 - View [Robert's LinkedIn Profile](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
 - View [Robert's Portfolio Website](https://www.robertwarneke.com)
 ---
