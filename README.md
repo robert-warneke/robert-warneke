@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Information Systems
 - 💞️ I’m looking to collaborate on ...
 
-## 📫 How to reach me ... contact@robertwarneke.com
+### 📫 How to reach me ... contact@robertwarneke.com
 - View [Robert's LinkedIn Profile](https://www.linkedin.com/in/robert-warneke "https://www.linkedin.com/in/robert-warneke")
 - View [Robert's Portfolio Website](https://www.robertwarneke.com)
 <!---
