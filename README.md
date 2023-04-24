@@ -11,4 +11,4 @@
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 
 ---
-<img src="./robert-warneke/assets/address-card-solid.svg.svg">
+<img src="/robert-warneke/assets/address-card-solid.svg.svg">
