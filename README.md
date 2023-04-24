@@ -3,8 +3,8 @@
 # 👋 Hi, my name is Robert Warneke.
 ---
 <p align="center"><img align="center" width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekeheadshot.png?raw=true"></p><br />
-<p align="center"><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=robert-warneke&show_icons=true&locale=en" alt="robert-warneke" /></p><br />
-<p align="center"><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact" alt="robert-warneke" /></p><br />
+<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=robert-warneke&show_icons=true&title_color=6660e0&bg_color=00000000&icon_color=6660e060&locale=en" alt="robert-warneke" /></p><br />
+<p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact" alt="robert-warneke" /></p><br />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke" /> </p>
 
 ---
