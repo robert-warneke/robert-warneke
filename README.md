@@ -8,8 +8,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact" alt="robert-warneke" /></p>
   
 ---
-
-##### 💰 Make a donation . . .
+####💰 Make a donation . . .
 |Cryptocurrency|Symbol|Abbreviation|Address|
 | ----------- | ----------- | ----------- | ----------- |
 |Bitcoin|₿|BTC|bc1qque004sfsrc8vce2tfzq98jaqgapeuxmtpsptl|
