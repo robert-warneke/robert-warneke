@@ -8,4 +8,4 @@
 |Litecoin|Ł|LTC|LgXVNudg35FfpR9ZyQ8HH3t9xEBAq99zgm|
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 ---
-![Address Card](robert-warneke/assets/address-card-solid.svg)
+![Alt text](./address-card-solid.svg.svg)
