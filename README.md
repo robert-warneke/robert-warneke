@@ -16,4 +16,4 @@
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=0e75b6&style=plastic" alt="robert-warneke" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=0e75b6&style=plastic" alt="robert-warneke" /> </p>
