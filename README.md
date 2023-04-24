@@ -2,7 +2,7 @@
 
 # 👋 Hi, my name is Robert Warneke.
 ---
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robert-warneke&show_icons=true&locale=en" alt="robert-warneke" /></p>
 <p>Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.</p>
   
 ---
