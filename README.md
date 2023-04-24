@@ -2,7 +2,7 @@
 
 # 👋 Hi, my name is Robert Warneke.
 ---
-Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.
+<p>Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.<p>
 ---
 
 ##### 💰 Make a donation . . .
