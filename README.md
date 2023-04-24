@@ -2,6 +2,8 @@
 
 # 👋 Hi, my name is Robert Warneke.
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=0e75b6&style=plastic" alt="robert-warneke" /> </p>
 <p>Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.</p>
   
 ---
