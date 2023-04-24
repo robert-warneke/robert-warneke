@@ -3,7 +3,6 @@
 # 👋 Hi, my name is Robert Warneke.
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=0e75b6&style=plastic" alt="robert-warneke" /> </p>
 <p>Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.</p>
   
 ---
@@ -17,4 +16,4 @@
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 
 ---
-<img src="https://user-images.githubusercontent.com/57267075/234101564-84577f0c-1af9-4433-9446-12233aff3130.svg" width=30> contact@robertwarneke.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=0e75b6&style=plastic" alt="robert-warneke" /> </p>
