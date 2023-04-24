@@ -2,6 +2,8 @@
 
 # 👋 Hi, my name is Robert Warneke.
 ---
+Strong organizational and problem-solving skills; can manage multiple tasks and adapt to challenging situations.
+---
 
 ##### 💰 Make a donation . . .
 |Cryptocurrency|Symbol|Abbreviation|Address|
