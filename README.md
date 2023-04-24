@@ -2,6 +2,8 @@
 
 # 👋 Hi, my name is Robert Warneke.
 
+<img src="https://user-images.githubusercontent.com/57267075/234101564-84577f0c-1af9-4433-9446-12233aff3130.svg" width=30>
+
 ---
 
 ##### 💰 Make a donation . . .
@@ -13,4 +15,3 @@
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 
 ---
-<img src="https://user-images.githubusercontent.com/57267075/234101564-84577f0c-1af9-4433-9446-12233aff3130.svg" width=30>
