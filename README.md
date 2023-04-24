@@ -11,4 +11,4 @@
 |Dogecoin|Ð|DOGE|DHymx8Jdu3TPWeBmraig4YXd4DfbHD33YP|
 
 ---
-![address-card-solid](https://user-images.githubusercontent.com/57267075/234101564-84577f0c-1af9-4433-9446-12233aff3130.svg | width=100)
+<img src="https://user-images.githubusercontent.com/57267075/234101564-84577f0c-1af9-4433-9446-12233aff3130.svg" width=100>
