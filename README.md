@@ -4,7 +4,7 @@
 ---
 
 <p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></p>
-<p align="center"><img align="center" width="70%" src="#gh-light-mode-only"></p>
+<p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></p>
 
 <p align="center"><img width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></p>
 
