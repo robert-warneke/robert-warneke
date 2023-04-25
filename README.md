@@ -12,5 +12,3 @@
 <a href="https://linkedin.com/in/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-warneke" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCs78THJQoZ6cMwoLOhDStVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robertwarneke" height="30" width="40" /></a>
 </p>
-
----
