@@ -1,17 +1,17 @@
-<p align="center"><a href="https://www.robertwarneke.com#gh-dark-mode-only" target="_blank"><img align="center" width="80%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/a184ac642fb784e38de3cb9adcc61a52aba69ab8/assets/svg/robertwarnekelogo-2color-6660e0%26ffffff-124x33.3.svg#gh-dark-mode-only"></a></p>
-<p align="center"><a href="https://www.robertwarneke.com#gh-light-mode-only" target="_blank"><img align="center" width="80%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/313b688149fdb5945f1aed6528e4ef2c0ad74ae5/assets/svg/robertwarnekelogo-2color-ffffff%266660e0-124x33.3.svg#gh-light-mode-only"></a></p>
+<p align="center"><a href="https://www.robertwarneke.com#gh-dark-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/a184ac642fb784e38de3cb9adcc61a52aba69ab8/assets/svg/robertwarnekelogo-2color-6660e0%26ffffff-124x33.3.svg#gh-dark-mode-only"></a></p>
+<p align="center"><a href="https://www.robertwarneke.com#gh-light-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/313b688149fdb5945f1aed6528e4ef2c0ad74ae5/assets/svg/robertwarnekelogo-2color-ffffff%266660e0-124x33.3.svg#gh-light-mode-only"></a></p>
 
 ---
 ---
 
-<p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></p>
-<p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></p>
+<p align="center"><img align="center" width="80%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></p>
+<p align="center"><img align="center" width="80%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></p>
 
 <p align="center">Combining my expertise as an information systems student and a seasoned paraprofessional, I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a 'Customer Service Supervisor' and 'Technical Trainer Intern', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
-<p align="center"><a href="#"><img width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertsresumelink.png?raw=true"></a></p>
+<p align="center"><a href="#"><img width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertsresumelink.png?raw=true"></a></p>
 
-<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="60%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></a></p>
+<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></a></p>
 
 ---
 
