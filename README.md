@@ -1,4 +1,5 @@
-<p align="center"><img align="center" width="50%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/a184ac642fb784e38de3cb9adcc61a52aba69ab8/assets/svg/robertwarnekelogo-2color-6660e0%26ffffff-124x33.3.svg"></p>
+<p align="center"><img align="center" width="50%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/a184ac642fb784e38de3cb9adcc61a52aba69ab8/assets/svg/robertwarnekelogo-2color-6660e0%26ffffff-124x33.3.svg#gh-dark-mode-only"></p>
+<p align="center"><img align="center" width="50%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/313b688149fdb5945f1aed6528e4ef2c0ad74ae5/assets/svg/robertwarnekelogo-2color-ffffff%266660e0-124x33.3.svg#gh-light-mode-only"></p>
 
 <p align="center"><img align="center" width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekeheadshot.png?raw=true"></p>
 
