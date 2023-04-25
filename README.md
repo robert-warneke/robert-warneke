@@ -1,5 +1,7 @@
 <p align="center"><img align="center" width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekeheadshot.png?raw=true"></p>
 
+<p align="center"><img align="center" width="30%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/a184ac642fb784e38de3cb9adcc61a52aba69ab8/assets/svg/robertwarnekelogo-2color-6660e0%26ffffff-124x33.3.svg"></p>
+
 # 👋 Hi, my name is Robert Warneke.
 
 <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact&title_color=6660e0&bg_color=0d1117&text_color=fff0e090&border_radius=9&border_color=fff0e0" alt="robert-warneke" /></p><br />
