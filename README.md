@@ -4,8 +4,8 @@
 ---
 ---
 
-<p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></p>
-<p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></p>
+<p align="center"><img align="center" width="70%" src="#gh-dark-mode-only"></p>
+<p align="center"><img align="center" width="70%" src="#gh-light-mode-only"></p>
 
 <p align="center">Combining my expertise as an information systems student and a seasoned paraprofessional, I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a 'Customer Service Supervisor' and 'Technical Trainer Intern', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
