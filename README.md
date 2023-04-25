@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true"></p>
 
-<p align="center"><img width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></p>
+<p align="center"><img width="50%" src=""></p>
 
 ---
 
