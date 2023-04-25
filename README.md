@@ -5,6 +5,8 @@
 
 <p align="center"><img align="center" width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true"></p>
 
+<p align="center"><img width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></p>
+
 ---
 
 <p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact&title_color=6660e0&bg_color=0d1117&text_color=fff0e090&border_radius=9&border_color=fff0e0" alt="robert-warneke" /></p>
