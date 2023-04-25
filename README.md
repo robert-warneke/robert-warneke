@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekeheadshot.png?raw=true"></p><br />
+<p align="center"><img align="center" width="40%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekeheadshot.png?raw=true"></p>
 
 # 👋 Hi, my name is Robert Warneke.
 
