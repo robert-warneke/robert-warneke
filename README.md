@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"><img align="center" width="50%" src=""></p>
+<p align="center"><img align="center" width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true"></p>
 
 ---
 
