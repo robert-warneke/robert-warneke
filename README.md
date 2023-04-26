@@ -14,8 +14,8 @@
 
 <div style="display: flex; flex-direction: row;">
 <p align="center">
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact&title_color=6660e0&bg_color=0d1117&text_color=fff0e090&border_radius=9&border_color=fff0e0" />
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robert-warneke&show_icons=true&title_color=6660e0&bg_color=0d1117&icon_color=6660e060&text_color=fff0e090&border_radius=9&border_color=fff0e0&locale=en" />
+ <img class="img" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=robert-warneke&show_icons=true&locale=en&layout=compact&title_color=6660e0&bg_color=0d1117&text_color=fff0e090&border_radius=9&border_color=fff0e0" />
+ <img class="img" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robert-warneke&show_icons=true&title_color=6660e0&bg_color=0d1117&icon_color=6660e060&text_color=fff0e090&border_radius=9&border_color=fff0e0&locale=en" />
 </p>
 </div>
 
