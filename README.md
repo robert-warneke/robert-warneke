@@ -10,6 +10,8 @@
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
+---
+
 <p align="center"><a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a></p>
 
 <p align="center"><a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a></p>
