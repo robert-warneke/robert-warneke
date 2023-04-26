@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center"><a href="#"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a></p>
+<p align="center"><a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a></p>
 <p align="center"><a href="#"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a></p>
 
 <p align="center"><a href="mailto:hello@robertwarneke.com"><img width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></a></p>
