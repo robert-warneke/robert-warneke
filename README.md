@@ -33,10 +33,11 @@
 
 ---
 
-<p align="left">
-<a href="https://linkedin.com/in/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-warneke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCs78THJQoZ6cMwoLOhDStVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robertwarneke" height="30" width="40" /></a>
+ <div style="display: flex; flex-direction: row;">
+ <p align="left">
+ <a href="https://linkedin.com/in/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-warneke" height="30" width="40" /></a>
+ <a href="https://www.youtube.com/channel/UCs78THJQoZ6cMwoLOhDStVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robertwarneke" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21730155/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="robert warneke" height="30" width="40" /></a>
-</p>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke" /></p>
+ <img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke" />
+ </p>
+ </div>
