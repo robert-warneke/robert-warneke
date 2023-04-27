@@ -14,9 +14,12 @@
 
 ---
 
-<p align="center"><a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a></p>
-
-<p align="center"><a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a></p>
+<div style="display: flex; flex-direction: row;">
+<p align="center">
+<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a>
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a>
+</p>
+</div>
 
 <p align="center"><a href="mailto:hello@robertwarneke.com"><img width="70%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/hello@robertwarneke.com.png?raw=true"></a></p>
 
