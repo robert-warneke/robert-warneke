@@ -17,9 +17,9 @@
 
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md"><img width="60%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/002e84e21e816052a58a320e53375129a6039224/assets/svg/welcomeheader.svg"></a></p>
 
-<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-dark-mode-only"><img align="center" width="95%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></a></p>
+<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-dark-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></a></p>
 
-<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="95%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></a></p>
+<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></a></p>
 
 <p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/aboutheader.svg"></p>
 
