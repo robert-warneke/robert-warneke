@@ -27,8 +27,8 @@
 
 <div style="display: flex; flex-direction: row;">
 <p align="center">
-<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="35%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="39%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/viewprojectslink.svg"></a>
+<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="35%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/5debdfd374b80f8276d1a1d844b4beca0677c631/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="40%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/viewprojectslink.svg"></a>
 </p>
 </div>
 
