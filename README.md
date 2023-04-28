@@ -2,6 +2,17 @@
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/313b688149fdb5945f1aed6528e4ef2c0ad74ae5/assets/svg/robertwarnekelogo-2color-ffffff%266660e0-124x33.3.svg#gh-light-mode-only"></a></p>
 
 ---
+
+<div>
+<p align="center">
+ <a href="https://www.github.com/robert-warneke#gh-dark-mode-only" target="blank"><img align="center" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/33a2c32400b2132b69b778bfc4b26dc7a14c0b12/assets/svg/github-mark-white.svg#gh-dark-mode-only" alt="robert-warneke" height="20" width="20"></a>
+  <a href="https://www.github.com/robert-warneke##gh-light-mode-only" target="blank"><img align="center" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/33a2c32400b2132b69b778bfc4b26dc7a14c0b12/assets/svg/github-mark.svg#gh-light-mode-only" alt="robert-warneke" height="20" width="20"></a>
+ <a href="https://linkedin.com/in/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-warneke" height="20" width="30" /></a>
+ <a href="https://www.youtube.com/channel/UCs78THJQoZ6cMwoLOhDStVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robertwarneke" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/21730155/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="robert warneke" height="20" width="30" /></a>
+</p>
+</div>
+
 ---
 
 <p align="center"><img width="60%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/002e84e21e816052a58a320e53375129a6039224/assets/svg/welcomeheader.svg"></p>
@@ -40,13 +51,5 @@
 
 ---
 
- <div style="display: flex; flex-direction: row;">
- <p align="left">
- <a href="https://www.github.com/robert-warneke#gh-dark-mode-only" target="blank"><img align="center" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/33a2c32400b2132b69b778bfc4b26dc7a14c0b12/assets/svg/github-mark-white.svg#gh-dark-mode-only" alt="robert-warneke" height="20" width="20"></a>
-  <a href="https://www.github.com/robert-warneke##gh-light-mode-only" target="blank"><img align="center" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/33a2c32400b2132b69b778bfc4b26dc7a14c0b12/assets/svg/github-mark.svg#gh-light-mode-only" alt="robert-warneke" height="20" width="20"></a>
- <a href="https://linkedin.com/in/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robert-warneke" height="20" width="30" /></a>
- <a href="https://www.youtube.com/channel/UCs78THJQoZ6cMwoLOhDStVA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="robertwarneke" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/21730155/robert-warneke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="robert warneke" height="20" width="30" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke" />
-</p>
-</div>
+
+<p><img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke"/></p>
