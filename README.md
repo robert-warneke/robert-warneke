@@ -41,7 +41,7 @@
 <p align="center">
 <a href="https://github.com/robert-warneke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/robert-warneke">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robert-warneke&count_private=true" />
 </a>
