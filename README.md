@@ -28,7 +28,7 @@
 <div style="display: flex; flex-direction: row;">
 <p align="center">
 <a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="35%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="39%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/1d340201d47c85264aad267be9ae42cdf76c3470/assets/svg/viewprojectslink.svg"></a>
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="39%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/700dac4c4a114439d98723e72492ebf288560c54/assets/svg/viewprojectslink.svg"></a>
 </p>
 </div>
 
