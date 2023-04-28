@@ -25,20 +25,18 @@
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
+<div style="display: flex; flex-direction: row;">
+<p align="center">
+<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/1d340201d47c85264aad267be9ae42cdf76c3470/assets/svg/viewprojectslink.svg"></a>
+</p>
+</div>
+
 <p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
 
 ---
 
 <p align="center"><img width="50%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/skills&competenciesheader.png?raw=true"</p>
-
-
-<div style="display: flex; flex-direction: row;">
-<p align="center">
-<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a>
-</p>
-</div>
-
  
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
