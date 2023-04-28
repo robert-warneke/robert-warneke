@@ -36,6 +36,10 @@
 
 ---
 
+<p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/226cc029be007dff9200c5bd73f36be56bd9b251/assets/svg/skills%26competenciesheader.svg"></p>
+
+---
+
 <p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/9d25d8c6590cdaab207f01121cccc800e08b613f/assets/svg/contactheader.svg"></p>
 
 <p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
