@@ -34,7 +34,7 @@
 
 <div style="display: flex; flex-direction: row;">
 <p align="center">
-<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewresumelink.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="25%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="29%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/viewprojectslink.png?raw=true"></a>
 </p>
 </div>
