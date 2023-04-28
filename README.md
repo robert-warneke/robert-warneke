@@ -21,7 +21,7 @@
 </div>
 
 
-<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="70%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
+<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
 
 ---
 
