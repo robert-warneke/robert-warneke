@@ -38,6 +38,8 @@
 
 <p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/226cc029be007dff9200c5bd73f36be56bd9b251/assets/svg/skills%26competenciesheader.svg"></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5"></p>
+
 ---
 
 <p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/9d25d8c6590cdaab207f01121cccc800e08b613f/assets/svg/contactheader.svg"></p>
