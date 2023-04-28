@@ -21,14 +21,14 @@
 
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="90%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-light.png?raw=true#gh-light-mode-only"></a></p>
 
-<p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/2f090bfd5f619833dbe302de55fcc7831b269489/assets/svg/viewprojectslink.svg"></p>
+<p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/aboutheader.svg"></p>
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
 <div style="display: flex; flex-direction: row;">
 <p align="center">
 <a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="35%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/018556b150becd38b3a9c4f493fc047a283c7fe5/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="39%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/5d9d8f76cfcd75e079ffacade8ec7abaf36fbebe/assets/svg/viewprojectslink.svg"></a>
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="39%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/viewprojectslink.svg"></a>
 </p>
 </div>
 
