@@ -67,5 +67,4 @@
 
 ---
 
-<p>Made with 💖</p>
-<p><img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke"/></p>
+<p align="left">Made with 💖<img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke"/></p>
