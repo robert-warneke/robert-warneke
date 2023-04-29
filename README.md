@@ -39,9 +39,13 @@
 <p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/226cc029be007dff9200c5bd73f36be56bd9b251/assets/svg/skills%26competenciesheader.svg"></p>
 
 <p align="center">
-<a href="https://github.com/robert-warneke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0" />
-</a>&nbsp;
+<a href="https://github.com/robert-warneke#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff00&text_color=ffffff" />
+</a>
+<a href="https://github.com/robert-warneke#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff&text_color=000000" />
+</a>
+&nbsp;
 <a href="https://github.com/robert-warneke#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robert-warneke&count_private=true&include_all_commits=true&ring_color=6660e0&title_color=6660e0&bg_color=00000000&text_color=ffffff" />
 </a>
