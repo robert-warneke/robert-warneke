@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md"><img width="60%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/002e84e21e816052a58a320e53375129a6039224/assets/svg/welcomeheader.svg"></a></p>
+<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md"><img width="60%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/welcomeheader-blueberry-3color-350x100.svg"></a></p>
 
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-dark-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/png/robertwarnekehello-dark.png?raw=true#gh-dark-mode-only"></a></p>
 
@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/aboutheader.svg"></p>
+<p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/aboutheader-blueberry-3color-250x100.svg"></p>
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/226cc029be007dff9200c5bd73f36be56bd9b251/assets/svg/skills%26competenciesheader.svg"></p>
+<p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/skills%26competenciesheader-blueberry-3color-900x100.svg"></p>
 
 <p align="center">
 <a href="https://github.com/robert-warneke#gh-dark-mode-only">
@@ -56,7 +56,7 @@
 
 ---
 
-<p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/9d25d8c6590cdaab207f01121cccc800e08b613f/assets/svg/contactheader.svg"></p>
+<p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/contactheader-blueberry-3color-400x100.svg"></p>
 
 <p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
 
