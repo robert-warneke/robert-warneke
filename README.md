@@ -69,6 +69,7 @@
 <a href="https://github.com/robert-warneke/robert-warneke#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=ffffff&text_color=000000" />
 </a>
+&nbsp;
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=00000000&text_color=ffffff" />
 </a>
