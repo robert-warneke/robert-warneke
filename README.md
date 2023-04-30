@@ -19,7 +19,7 @@
 
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-dark-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-darkmode-1280x520.gif?raw=true"></a></p>
 
-<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-lightmode-1280x520.gif?raw=true"></a></p>
+<p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-lightmode-transparent-1280x520.gif?raw=true"></a></p>
 
 ---
 
