@@ -1,5 +1,5 @@
 <p align="center"><a href="https://www.robertwarneke.com#gh-dark-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/6217aaee95ae1e15217ef75db7a7f4a01e8ab6e2/assets/img/robert-warneke-branding/robert-warneke-namelogo/2color/svg/robert-warneke-namelogo-2color-6660e0%26ffffff-124x33.3-min.svg"></a></p>
-<p align="center"><a href="https://www.robertwarneke.com#gh-light-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/313b688149fdb5945f1aed6528e4ef2c0ad74ae5/assets/svg/robertwarnekelogo-2color-ffffff%266660e0-124x33.3.svg#gh-light-mode-only"></a></p>
+<p align="center"><a href="https://www.robertwarneke.com#gh-light-mode-only" target="_blank"><img align="center" width="90%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/970aa9d4b40670a6491fc056777cd57aad9bc41e/assets/img/robert-warneke-branding/robert-warneke-namelogo/1color/svg/robert-warneke-namelogo-1color-6660e0-124x33.3-min.svg"></a></p>
 
 ---
 
