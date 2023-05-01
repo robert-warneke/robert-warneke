@@ -22,6 +22,10 @@
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-lightmode-1280x520.gif?raw=true"></a></p>
 
 <p align="center">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/Greater%20Chicago%20Area-USA-blue?style=for-the-badge&logo=location&logoColor=white">
+</p>
+
+<p align="center">
 <a href="https://github.com/robert-warneke">
 <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drobert-warneke%26type%3Djson">
 </a>
@@ -32,10 +36,6 @@
 <p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/aboutheader-blueberry-3color-250x100.svg"></p>
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
-
-<p align="center">
-<img align="center" src="https://custom-icon-badges.demolab.com/badge/Greater%20Chicago%20Area-USA-blue?style=for-the-badge&logo=location&logoColor=white">
-</p>
 
 <p align="center">
 <a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf">
