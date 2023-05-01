@@ -62,6 +62,8 @@
 
 ---
 
+<p align="center"><img width="28%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/8297040b70948395b45325aad7b4dbebee1f96c5/assets/img/headers/blueberry/svg/projectsheader-blueberry-3color-390x100.svg"></p>
+
 <p align="center">
 <a href="https://github.com/robert-warneke/robert-warneke#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=00000000&text_color=ffffff" />
