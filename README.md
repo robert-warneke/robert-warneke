@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/robert-warneke">
-<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drobert-warneke%26type%3Djson">
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?style=for-the-badge&logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drobert-warneke%26type%3Djson">
 </a>
 </p>
 
