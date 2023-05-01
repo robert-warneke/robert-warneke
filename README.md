@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf">
-<img align="center" src="https://custom-icon-badges.demolab.com/badge/Resume-6660e0.svg?style=for-the-badge&logo=log&logoColor=fff">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/Resume-6660e0.svg?style=for-the-badge&logo=file-badge&logoColor=fff">
 </a>
 <a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">
 <img align="center" src="https://custom-icon-badges.demolab.com/badge/Projects-6660e0.svg?style=for-the-badge&logo=file-code&logoColor=fff">
