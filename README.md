@@ -27,12 +27,14 @@
 
 <p align="center">Combining my expertise as an information systems student and a seasoned '<a title="Click to view Robert's 'Paraprofessional' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Paraprofessional</a>', I possess a distinctive skill set that encompasses both technical prowess and interpersonal finesse. I have experience as a '<a title="Click to view Robert's 'Customer Service Supervisor' experience on LinkedIn." href="https://www.linkedin.com/in/robert-warneke">Customer Service Supervisor</a>' and '<a title="Click to view Robert's Technical Trainer internship presentation slides." href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">Technical Trainer Intern</a>', honing my team management, customer satisfaction, and training abilities. My commitment to lifelong learning drives me to constantly enhance my capabilities to make a constructive impact.</p>
 
-<div style="display: flex; flex-direction: row;">
 <p align="center">
-<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf"><img width="35%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/5debdfd374b80f8276d1a1d844b4beca0677c631/assets/svg/viewresumelink.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf"><img width="40%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/476eb169e6ab7a527b83e69d48cb5bb7b2efcfbc/assets/svg/viewprojectslink.svg"></a>
+<a href="https://robertwarneke.com/assets/pdf/RobertWarnekeResume%204-10-2023.pdf">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/Resume-6660e0.svg?style=for-the-badge&logo=log&logoColor=fff">
+</a>
+<a href="https://robertwarneke.com/assets/pdf/Robert%20Warneke%20-%20ETST%20Intern%20Summary.pdf">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/Projects-6660e0.svg?style=for-the-badge&logo=file-code&logoColor=fff">
+</a>
 </p>
-</div>
 
 ---
 
