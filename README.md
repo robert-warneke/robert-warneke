@@ -21,6 +21,12 @@
 
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-lightmode-1280x520.gif?raw=true"></a></p>
 
+<p align="center">
+<a href="https://github.com/robert-warneke">
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3Drobert-warneke%26type%3Djson">
+</a>
+</p>
+
 ---
 
 <p align="center"><img align="center" width="20%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/aboutheader-blueberry-3color-250x100.svg"></p>
