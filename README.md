@@ -22,7 +22,7 @@
 <p align="center"><a href="https://github.com/robert-warneke/robert-warneke/blob/main/README.md#gh-light-mode-only"><img align="center" width="98%" src="https://github.com/robert-warneke/robert-warneke/blob/main/assets/img/robert-warneke-branding/robert-warneke-hello-banner/gif/robert-warneke-hello-banner-lightmode-1280x520.gif?raw=true"></a></p>
 
 <p align="center">
-<img align="center" src="https://custom-icon-badges.demolab.com/badge/Greater%20Chicago%20Area-USA-blue?style=for-the-badge&logo=location&logoColor=white">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/Greater%20Chicago%20Area%20USA-blue?style=for-the-badge&logo=location&logoColor=white">
 </p>
 
 <p align="center">
