@@ -60,17 +60,17 @@
 
 <p align="center">
 <a href="https://github.com/robert-warneke#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff00&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff00&text_color=ffffff" />
 </a>
 <a href="https://github.com/robert-warneke#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff&text_color=000000" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/top-langs/?username=robert-warneke&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=6&title_color=6660e0&bg_color=ffffff&text_color=000000" />
 </a>
 &nbsp;
 <a href="https://github.com/robert-warneke#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api?username=robert-warneke&count_private=true&include_all_commits=true&ring_color=6660e0&title_color=6660e0&bg_color=00000000&text_color=ffffff&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api?username=robert-warneke&count_private=true&include_all_commits=true&ring_color=6660e0&title_color=6660e0&bg_color=00000000&text_color=ffffff&rank_icon=github" />
 </a>
 <a href="https://github.com/robert-warneke#gh-light-mode-only">
-<img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api?username=robert-warneke&count_private=true&include_all_commits=true&ring_color=6660e0&title_color=6660e0&bg_color=ffffff&text_color=000000&rank_icon=github" />
+<img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api?username=robert-warneke&count_private=true&include_all_commits=true&ring_color=6660e0&title_color=6660e0&bg_color=ffffff&text_color=000000&rank_icon=github" />
 </a>
 </p>
 
@@ -80,17 +80,17 @@
 
 <p align="center">
 <a href="https://github.com/robert-warneke/robert-warneke#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=00000000&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=00000000&text_color=ffffff" />
 </a>
 <a href="https://github.com/robert-warneke/robert-warneke#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=ffffff&text_color=000000" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=ffffff&text_color=000000" />
 </a>
 &nbsp;
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=00000000&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=00000000&text_color=ffffff" />
 </a>
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-ftjao7bhb-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=ffffff&text_color=000000" />
+  <img align="center" src="https://github-readme-stats-omega-nine-78.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=ffffff&text_color=000000" />
 </a>
 </p>
 
