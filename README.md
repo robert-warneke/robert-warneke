@@ -46,6 +46,12 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/robert-warneke">
+<img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
 ---
 
 <p align="center"><img align="center" width="65%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/skills%26competenciesheader-blueberry-3color-900x100.svg"></p>
