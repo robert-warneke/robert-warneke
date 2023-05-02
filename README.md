@@ -46,6 +46,8 @@
 </a>
 </p>
 
+<p align="center"><a href="mailto:hello@robertwarneke.com"><img src="https://custom-icon-badges.demolab.com/badge/hello@robertwarneke.com-yellow.svg?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+
 <p align="center">
 <a href="https://linkedin.com/in/robert-warneke">
 <img align="center" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white">
