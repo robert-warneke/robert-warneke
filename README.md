@@ -105,3 +105,5 @@
 ---
  
 <p align="left">Made with ❤️<img align="right" src="https://komarev.com/ghpvc/?username=robert-warneke&label=Profile%20views&color=6660e0&style=plastic"" alt="robert-warneke"/></p>
+
+<p align="center"><a href="https://open.spotify.com/user/3imsk52eloagxtrw8dd62okrq"><img src="https://github-readme-spotify-playing.vercel.app/api/spotify"></a></p>
