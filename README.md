@@ -98,16 +98,16 @@
 
 ---
 
+<p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/contactheader-blueberry-3color-400x100.svg"></p>
+
+<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
+
+---
+
 <p align="center">🎵 Vibing to: </p>
 <p align="center"> 
 <a href="https://open.spotify.com/user/3imsk52eloagxtrw8dd62okrq"><img src="https://github-readme-spotify-playing.vercel.app/api/spotify"></a>
 </p>
-
----
-
-<p align="center"><img align="center" width="27%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/733d2081c222adc73943ca934ec7ea3cd9b7875b/assets/img/headers/blueberry/svg/contactheader-blueberry-3color-400x100.svg"></p>
-
-<p align="center"><a href="mailto:hello@robertwarneke.com"><img width="85%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/18f2bca894f11dfbe763e65a1a472322ca794224/assets/svg/hello%40robertwarneke.com.svg"></a></p>
 
 ---
  
