@@ -105,7 +105,7 @@
 ---
 
 <details>
-<summary><h3>Just for fun! . . .</h3></summary>
+<summary><h3> 🎉 Just for fun! . . .</h3></summary>
 <p align="center">🎵 Vibing to: </p>
 <p align="center"> 
 <a href="https://open.spotify.com/user/3imsk52eloagxtrw8dd62okrq"><img src="https://github-readme-spotify-playing.vercel.app/api/spotify"></a>
