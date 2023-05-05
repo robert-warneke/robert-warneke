@@ -105,6 +105,12 @@
 ---
 
 <details>
+<summary> Recent Activity </summary>
+<!--START_SECTION:activity-->
+</details>
+  
+
+<details>
 <summary><h3> 🎉 Just for fun! . . .</h3></summary>
 <p align="center">🎵 Vibing to: </p>
 <p align="center"> 
