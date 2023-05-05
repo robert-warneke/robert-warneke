@@ -105,9 +105,13 @@
 ---
 
 <details>
-<summary> Recent Activity </summary>
+<summary><h3> :zap: Recent Activity . . .</h3></summary>
+
 <!--START_SECTION:activity-->
-</details>
+<!--END_SECTION:activity-->
+ 
+ </details>
+
   
 
 <details>
