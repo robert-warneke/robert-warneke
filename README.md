@@ -78,19 +78,20 @@
 
 <p align="center"><img width="28%" src="https://raw.githubusercontent.com/robert-warneke/robert-warneke/8297040b70948395b45325aad7b4dbebee1f96c5/assets/img/headers/blueberry/svg/projectsheader-blueberry-3color-390x100.svg"></p>
 
+
 <p align="center">
-<a href="https://github.com/robert-warneke/robert-warneke#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=00000000&text_color=ffffff" />
-</a>
-<a href="https://github.com/robert-warneke/robert-warneke#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke&bg_color=ffffff&text_color=000000" />
-</a>
-&nbsp;
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=00000000&text_color=ffffff" />
 </a>
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=ffffff&text_color=000000" />
+</a>
+&nbsp;
+<a href="https://github.com/robert-warneke/waveformic#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=waveformic&bg_color=00000000&text_color=ffffff" />
+</a>
+<a href="https://github.com/robert-warneke/waveformic#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=waveformic&bg_color=ffffff&text_color=000000" />
 </a>
 </p>
 
