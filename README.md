@@ -86,13 +86,6 @@
 <a href="https://github.com/robert-warneke/robert-warneke.github.io#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=robert-warneke.github.io&bg_color=ffffff&text_color=000000" />
 </a>
-&nbsp;
-<a href="https://github.com/robert-warneke/waveformic#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=waveformic&bg_color=00000000&text_color=ffffff" />
-</a>
-<a href="https://github.com/robert-warneke/waveformic#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats-robert-warneke.vercel.app/api/pin/?username=robert-warneke&repo=waveformic&bg_color=ffffff&text_color=000000" />
-</a>
 </p>
 
 <p align="center"><a href="https://github.com/robert-warneke?tab=repositories"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-6660e0?style=for-the-badge&logoColor=white&logo=repo"></a></p>
