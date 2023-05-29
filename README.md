@@ -1,6 +1,6 @@
 <p align="center">
 
-![GitHub Contribution Chart](https://my-github-cards.vercel.app/api/github-contribution-chart?username=robert-warneke)
+<img align="center" src="https://my-github-cards.vercel.app/api/github-contribution-chart?username=robert-warneke">
 
 </p>
 
