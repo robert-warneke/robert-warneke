@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://my-github-cards.vercel.app/api/github-contribution-chart?username=robert-warneke&showFullYear=true">
+    <img align="center" src="https://my-github-cards.vercel.app/api/github-contribution-chart?username=robert-warneke">
 </p>
 
 
